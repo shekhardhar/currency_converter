@@ -1,2 +1,2 @@
 # currency_converter
-Website for currency converted USD &lt;==> INR
+Website for currency converter USD &lt;==> INR
